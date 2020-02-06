@@ -1,6 +1,7 @@
 archive.name, Australian Bureau of Meteorology
 archive.host_country, AUS
 platform.name, Adelaide Observatory
+platform.host_country, AUS
 document.id_within_archive, https://upload.wikimedia.org/wikipedia/commons/5/51/Todd_Weather_Folios_Early_chart_1879_Feb_15.jpg
 document.id_within_archive_type,URL
 document.start_date, 1879-02-15
