@@ -1,9 +1,0 @@
-archive.name, National Archives and Records Administration
-archive.host_country, USA
-platform.name, Jeannette
-platform.host_country, USA
-document.id_within_archive, 6919191
-document.id_within_archive_type, National Archives Identifier
-document.standardized_region_list, arctic
-document.rights_statement, CC0 Public Domain
-document.contact_person, Philip Brohan <philip@brohan.org>
